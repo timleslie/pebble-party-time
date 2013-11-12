@@ -1,12 +1,12 @@
 {
   "uuid": "0010ac4b-336b-43be-8ef5-e001a73a1c9a",
-  "shortName": "party-time",
-  "longName": "party-time",
-  "companyName": "MakeAwesomeHappen",
+  "shortName": "Party Time",
+  "longName": "Party Time",
+  "companyName": "timl",
   "versionCode": 1,
   "versionLabel": "1.0.0",
   "watchapp": {
-    "watchface": false
+    "watchface": true
   },
   "appKeys": {
     "dummy": 0
